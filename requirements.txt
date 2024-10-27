@@ -1,0 +1,6 @@
+streamlit
+llama-index
+llama-index-llms-mistralai
+llama-index-embeddings-huggingface
+pypdf
+hashlib
