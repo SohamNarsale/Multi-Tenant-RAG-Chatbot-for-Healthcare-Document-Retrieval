@@ -1,5 +1,3 @@
-### **README.md**
-
 # Multi-Tenant Healthcare RAG Chatbot
 
 This repository contains a multi-tenant Retrieval-Augmented Generation (RAG) chatbot specifically designed for the healthcare domain. It enables authenticated medical professionals to retrieve relevant information from specialty-specific healthcare documents, such as cardiology and neurology records, facilitating informed decision-making in patient care.
